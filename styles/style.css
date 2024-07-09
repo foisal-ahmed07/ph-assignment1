@@ -9,28 +9,6 @@ body{
     padding: 0;
 }
 
-.top-page{
-    display: flex;
-    justify-content: space-between;
-
-}
-.top-page h1{
-    color: rgb(13, 19, 33);
-    font-size: 28px;
-    font-weight: 800;
-    margin-top: 50px;
-    margin-left: 150px;
-}
-
-.top-page button{
-    margin-top: 50px;
-    margin-right: 160px;
-    padding: 17px 25px;
-    color: rgb(13, 19, 33);
-    font-size: 20px;
-    font-weight: 600;
-    border-radius: 8px;
-} 
 
 /* header style start */
 .header-container{
@@ -58,6 +36,7 @@ body{
     font-weight: 800;
     line-height: 68px;
     color: rgb(13, 19, 33);
+
 }
 .header-container p{
     font-size: 16px;
@@ -81,4 +60,12 @@ body{
     margin-left: 610px;
     margin-top: 32px;
 }
+.header-container button a{
+    text-decoration: none;
+    color: white;
+}
+
+/* main section style here */
+
+
 
