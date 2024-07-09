@@ -44,6 +44,7 @@ body{
     color: rgb(13, 19, 33);
     opacity: 0.7;
     width: 852px;
+    line-height: 26px;
     height: 52px;
     text-align: center;
     margin-left: 295px;
@@ -96,6 +97,7 @@ body{
     font-weight: 400;
     line-height: 26px;
     opacity: 0.7;
+    line-height: 26px;
     text-align: center;
     margin-left: 48px;
     margin-right: 48px;
@@ -153,10 +155,7 @@ body{
 .main-content2{
     display: flex;
     border-radius: 16px;
-
-    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
-    
-
+    background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
     margin-top: 80px;
     margin-left: 48px;
     margin-right: 48px;
@@ -207,6 +206,7 @@ body{
     font-size: 16px;
     font-weight: 400;
     opacity: 0.7;
+    line-height: 26px;
     text-align: center;
     margin-top: 25px;
     margin-left: 140px;
@@ -227,5 +227,89 @@ body{
     border-radius: 16px;
     margin: 32px;
 }
+/*3rd section style start here  */
+
+.my-Target{
+    width: 1140px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.targrt-title h1{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+}
+.targrt-title p{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 26px;
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    margin:24px 140px 48px 140px ;
+}
+
+.fontend-language{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   gap: 25px;  
+}
+/* primary language description style */
+.primary-h1-title{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    margin: 24px 40px;
+
+}
+.primary-p-title{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 8px 24px 24px 40px ;
+    line-height: 26px;
     
+}
+.primary-image{
+    width: 56px;
+    height: 56px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.primary-anchor{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    margin-left: 40px;
+}
+
+
+
+.html-language{
+    width: 364px;
+    height: 350px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+
+} 
+.css-language{
+    width: 364px;
+    height: 350px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}  
+.js-language{
+    width: 364px;
+    height: 350px;
+    border-radius: 16px;
+    background-color: rgba(0, 76, 232, 0.05);
+} 
+
+/* footer section style start here */
+
 
