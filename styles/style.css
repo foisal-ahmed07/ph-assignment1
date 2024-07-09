@@ -311,5 +311,60 @@ body{
 } 
 
 /* footer section style start here */
+.footer-section{
+    width: 1140px;
+    height: 314px;
+    margin: 0 auto;
+    border-radius: 16px;
+    margin-bottom: 80px;
+    background-image:url(../assets/handshake.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Support-section h1{
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    padding-top: 64px;
+}
+.Support-section p{
+    color: white;
+    opacity: 0.7;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    margin:16px 200px;
+}
+
+.footer-btn input{
+    width: 548px;
+    height: 57px;
+    margin: 0 auto;
+    padding-left: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(3, 5, 8, 0.4);
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    margin-left: 200px;
+}
+.footer-btn button{
+    border-radius: 8px;
+    width: 120px;
+    height: 58px;
+    background: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    color: black;
+}
+
+
 
 
