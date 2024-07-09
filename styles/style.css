@@ -12,7 +12,7 @@ body{
 
 /* header style start */
 .header-container{
-    width: 1440px;
+    max-width: 1820px;
     height: 652px;
     margin: 0 auto;
     background-image: url(../assets/Hero-bg.png);
@@ -189,8 +189,43 @@ body{
 }
 
 /* 2nd section style start here */
+.main-section-container2{
+    
+    width: 1140px;
+    height: 777px;
+    margin: 0 auto;
+}
 
+.Inspiration-section h1{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+}
+.Inspiration-section p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 140px;
+    margin-right: 140px;
 
-
+}
+.Inspiration-video{
+    width: 1140px;
+    height: 614px;
+    margin-top: 48px ;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+}
+.Inspiration-video iframe{
+    width: 1076px;
+    height: 550px;
+    border-radius: 16px;
+    margin: 32px;
+}
     
 
