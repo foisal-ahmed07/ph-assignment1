@@ -67,5 +67,202 @@ body{
 
 /* main section style here */
 
+.main-section-container{
+    margin: 0 auto;
+    border-radius: 16px;
+    
+   
+    background: rgba(13, 19, 33, 0.02);
+    width: 1140px;
+    height: 1250px;
+    margin-bottom: 90px;
+    
+}
 
+.main-all-content{
+    margin: 97px;
+       
+    width: 946px;
+    height: 1235px;
+}
+.main-content-title h1{
+    padding: 80px;
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    line-height: 37px;
+    
+
+
+}
+
+.main-content-title p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 0.7;
+    text-align: center;
+    margin-left: 48px;
+    margin-right: 48px;
+}
+
+.main-content1{
+    display: flex;
+    border-radius: 16px;
+
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    
+    margin-top: 48px;
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 30px;
+}
+
+.changing-world{
+    width: 477px;
+    height: 220px;
+    margin-right: 100px;
+    
+
+}
+.changing-world h1{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    margin-left: 48px;
+    margin-top: 20px;
+}  
+.changing-world p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-left:48px ;
+    margin-top: 16px;
+}
+.changing-world button{
+    width: 150px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    margin-left: 48px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+
+.main-content2{
+    display: flex;
+    border-radius: 16px;
+
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    
+
+    margin-top: 80px;
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 48px;
+
+}
+
+.mordern-web-system{
+    width: 477px;
+    height: 220px;
+    margin-right: 100px;
+}
+.mordern-web-system h1{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    margin-left: 48px;
+    margin-top: 20px;
+    
+}  
+.mordern-web-system p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-left:48px ;
+    margin-top: 16px;
+}
+.mordern-web-system button{
+    width: 150px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    margin-left: 48px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+.main-conten3{
+    display: flex;
+    border-radius: 16px;
+
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    
+    margin-top: 48px;
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 30px;
+}
+
+.codding-changing-world{
+    width: 477px;
+    height: 220px;   
+
+}
+.codding-changing-world h1{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 16px;
+    margin-left: 48px;
+    
+
+}
+
+.codding-changing-world p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-left:48px ;
+    margin-top: 16px;
+}
+
+.codding-changing-world button{
+    width: 150px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    margin-left: 48px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+
+    
 
