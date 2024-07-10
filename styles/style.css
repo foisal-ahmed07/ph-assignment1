@@ -150,7 +150,12 @@ body{
     margin-left: 48px;
     margin-top: 20px;
     margin-bottom: 10px;
+    cursor: pointer;
 } 
+.primary-button:hover{
+    background-color: lightseagreen;
+
+}
 
 .main-content2{
     display: flex;
@@ -362,7 +367,12 @@ body{
     font-weight: 600;
     line-height: 23px;
     color: black;
+    cursor: pointer;
 }
+.main-section-btn button:hover{
+    background-color:lightcoral
+}
+
 /* footer section style start here */
 
 .footer-section{
